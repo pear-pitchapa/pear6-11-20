@@ -1,0 +1,26 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+body {
+  height: 100%;
+}
+
+.cell {
+  padding: 5px;
+}
+.cell-body {
+  height: 100%;
+  padding: 55px;
+  background-color: #fde2eb;
+  color: #9ce0fc;
+}
+
+.row-height {
+  min-height: 1000px !important;
+}
+
+.height-100 {
+  height: 100% !important;
+}
